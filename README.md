@@ -6,12 +6,23 @@ A machine learning project that predicts dental treatment costs based on procedu
 
 ## 🚀 Demonstration
 
-- 💰 Price Estimation – Shows the predicted dental treatment cost based on user input.
-<img width="1498" height="978" alt="image" src="https://github.com/user-attachments/assets/68b010bf-93c2-4404-99ff-5c0d9066d442" />
+### 💰 Price Estimation – Shows the predicted dental treatment cost based on user input.
+<img width="1489" height="923" alt="image" src="https://github.com/user-attachments/assets/a380e5ea-db43-4f74-bd2a-ab49b28c34b4" />
 
 
-- 📊 Market Insights – Displays data-driven insights and trends from historical pricing.
+### 📊 Market Insights – Displays data-driven insights and trends from historical pricing.
 <img width="996" height="678" alt="image" src="https://github.com/user-attachments/assets/d6a5d0d9-19aa-4d32-9a56-19cd8273b17c" />
+
+### Basic features:
+
+#### Clinic Information:
+<img width="277" height="404" alt="image" src="https://github.com/user-attachments/assets/5fce8f47-21bb-4489-a658-d11568bed58e" />
+
+#### Facility Information
+<img width="277" height="381" alt="image" src="https://github.com/user-attachments/assets/29a42ed2-3a76-4830-a284-59df5af0042a" />
+
+#### Staff information and Ratings & Amenities
+<img width="284" height="633" alt="image" src="https://github.com/user-attachments/assets/51b8cb4e-0d35-4d23-93ed-1956d5e710d9" />
 
 ---
 
