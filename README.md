@@ -7,11 +7,11 @@ A machine learning project that predicts dental treatment costs based on procedu
 ## 🚀 Demonstration
 
 - 💰 Price Estimation – Shows the predicted dental treatment cost based on user input.
-![alt text](image.png)
+<img width="1498" height="978" alt="image" src="https://github.com/user-attachments/assets/68b010bf-93c2-4404-99ff-5c0d9066d442" />
 
 
 - 📊 Market Insights – Displays data-driven insights and trends from historical pricing.
-![alt text](image-1.png)
+<img width="996" height="678" alt="image" src="https://github.com/user-attachments/assets/d6a5d0d9-19aa-4d32-9a56-19cd8273b17c" />
 
 ---
 
